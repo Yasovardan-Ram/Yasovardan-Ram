@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Yasovardan Ram .Y
+# Welcome, I'm Yasovardan Ram.
 
 <p align="center">
   <img <p align="center">
